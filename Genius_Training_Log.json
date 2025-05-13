@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "Date": "2024-03-14T22:00:00.000Z",
+    "Timeframe": "H1",
+    "Recommendation": "Buy breakout above resistance",
+    "ModelsUsed": "Elliott Wave + Gann",
+    "Evaluation": "Pending",
+    "LearningPoint": "N/A"
+  },
+  {
+    "Date": "2025-04-28T21:00:00.000Z",
+    "Timeframe": "H1",
+    "Recommendation": "Sell below 1.2950, TP 1.2920, SL 1.2975",
+    "ModelsUsed": "Multiframe Analysis",
+    "Evaluation": "Not Activated",
+    "LearningPoint": "Entry zone was too far from actual price range + timing factors not used"
+  }
+]
