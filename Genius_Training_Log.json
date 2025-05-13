@@ -1,0 +1,13 @@
+{
+  "training_cases": [],
+  "learning_archive": [],
+  "meta": {
+    "description": "دفتر تدريب Genius GBP لتحليل زوج GBP/USD. يسجل كل حالة تدريب، توصية، نتيجة، ودروس مستفادة.",
+    "version": "1.0",
+    "creator": "Genius GBP Analyst",
+    "structure": {
+      "training_cases": "قائمة بكل التحليلات السابقة، تشمل التاريخ، النماذج، التوصية، والنتيجة.",
+      "learning_archive": "ملف خاص بالإخفاقات، يحتوي على تحليل نقدي لكل خطأ وتعلم مستفاد."
+    }
+  }
+}
