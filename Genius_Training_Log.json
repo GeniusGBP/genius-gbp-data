@@ -14,5 +14,13 @@
     "ModelsUsed": "Multiframe Analysis",
     "Evaluation": "Not Activated",
     "LearningPoint": "Entry zone was too far from actual price range + timing factors not used"
+  },
+  {
+    "Date": "2025-04-22T22:00:00.000Z",
+    "Timeframe": "H1",
+    "Recommendation": "Sell below 1.2960, TP 1.2930, SL 1.2985",
+    "ModelsUsed": "Multiframe Analysis",
+    "Evaluation": "Not Activated",
+    "LearningPoint": "Entry ignored opening price + daily range was well above plan"
   }
 ]
