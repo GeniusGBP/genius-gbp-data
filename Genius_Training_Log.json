@@ -22,5 +22,13 @@
     "ModelsUsed": "Multiframe Analysis",
     "Evaluation": "Not Activated",
     "LearningPoint": "Entry ignored opening price + daily range was well above plan"
+  },
+  {
+    "Date": "2023-08-07T21:00:00.000Z",
+    "Timeframe": "H1",
+    "Recommendation": "Sell below 1.2800, TP 1.2765, SL 1.2825",
+    "ModelsUsed": "Multiframe Analysis + Price Structure",
+    "Evaluation": "SUCCESSFUL",
+    "LearningPoint": "Entry was below opening, price continued toward target without approaching stop. Support from H4 structure and daily resistance made setup strong."
   }
 ]
